@@ -1,0 +1,13 @@
+#searchContainer {
+    margin: 2em auto 0;
+    width: 50%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #dfe1e3;
+}
